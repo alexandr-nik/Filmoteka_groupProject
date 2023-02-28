@@ -26,6 +26,7 @@ const teamSlider = new Glide('.teamSlider', {
 teamSlider.mount();
 teamSlider.pause();
 
+
 function onTeamModalstart() {
   teamSlider.play();
 }
